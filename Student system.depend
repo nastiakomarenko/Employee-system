@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1648464005 source:c:\users\user\documents\c++projects\student system\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdio>
+
+1648388032 c:\users\user\documents\c++projects\student system\loading.h
+	<iostream>
+	<windows.h>
+
+1648389002 c:\users\user\documents\c++projects\student system\adminfunction.h
+	<fstream>
+	<string.h>
+	<bits/stdc++.h>
+	<string>
+	<Windows.h>
+	<stdlib.h>
+
